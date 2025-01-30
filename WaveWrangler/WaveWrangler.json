@@ -1,0 +1,12 @@
+{
+  "Author": "Fuwa Aika",
+  "Name": "Wave Wrangler",
+  "Punchline": "Never mess up your wave emoticon again!",
+  "Description": "Literally all this plugin does is send \"o/\" in chat if you accidentally type \"/o\"",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "wave",
+    "chat",
+    "correct"
+  ]
+}

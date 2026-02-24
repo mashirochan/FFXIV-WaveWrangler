@@ -27,7 +27,7 @@ public sealed class Plugin : IDalamudPlugin
 
     private void OnCommand(string command, string args)
     {
-        Chat.SendMessage("o/");
+        Chat.SendMessage(("o/ " + args).Trim());
         Log.Info("Wave corrected!");
     }
 }
